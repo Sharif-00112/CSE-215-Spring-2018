@@ -1,0 +1,10 @@
+raihan password department 3.22 3.0 2.0 mat,cse,eng 
+
+saddam password department 3.22 3.0 2.0 pol,mat,hala 
+
+mohona password department 3.22 3.0 2.0 mat,cse,eng 
+
+fariha password department 3.22 3.0 2.0 pol,mat,hala 
+
+samin lala department 3.22 3.0 2.0 mat,cse,eng 
+
